@@ -1,6 +1,6 @@
 # Projects
  pushing to GIT
-# Machine Learning Projects – Graduation Portfolio
+# Machine Learning Project: Predicting Dry Beans Classes Using ML Algorithms
 
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/ROSHANDAPPU/Machine-Learning?style=for-the-badge)
 ![Python Version](https://img.shields.io/badge/python-3.10-blue?style=for-the-badge)
