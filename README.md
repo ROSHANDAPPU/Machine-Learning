@@ -13,15 +13,13 @@ This repository contains my Machine Learning projects completed during my gradua
 
 ## Repository Structure
 
-Machine-Learning/
-│
-├── FinalML11 9.31.20 PM.ipynb # Main Jupyter notebook with project implementation
-├── Project Paper.pdf # Research/project paper detailing methodology and results
-├── ProjectFinal.pptx # Presentation slides summarizing project work
-├── README.md # This file
-└── assets/ # (Optional) datasets or supporting files
+- **Machine-Learning/**
+  - **FinalML11 9.31.20 PM.ipynb** – Main Jupyter notebook with project implementation  
+  - **Project Paper.pdf** – Research/project paper detailing methodology and results  
+  - **ProjectFinal.pptx** – Presentation slides summarizing project work  
+  - **README.md** – This file  
+  - **assets/** – (Optional) folder containing datasets or supporting files
 
----
 
 ## Features & Highlights
 
